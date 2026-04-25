@@ -333,3 +333,22 @@ p {
   bottom: 30px;
   right: 10px;
 }
+.licenzii {
+  width: 100%;
+  height: 485px;
+  padding: 100px 0px;
+  background-color: #f1f5f8;
+  background-image: url("./images/Mask group (7).png");
+}
+.licenzia {
+  width: 90%;
+  height: 400px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.licenzia img {
+  width: 276px;
+  height: 400px;
+}
