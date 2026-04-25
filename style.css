@@ -87,3 +87,30 @@
   color: #0d233b;
   text-decoration: none;
 }
+.pages {
+  width: 102px;
+  height: 14px;
+  margin-left: 5%;
+  margin-bottom: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.pages a {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 100%;
+  color: #0d233b;
+  text-decoration: none;
+}
+.pages svg {
+  width: 10px;
+  height: 10px;
+}
+.analiz {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 100%;
+  color: #0d233b;
+  text-decoration: none;
+}
