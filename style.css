@@ -60,3 +60,30 @@
   line-height: 140%;
   color: #ffffff;
 }
+.doctor {
+  width: 90%;
+  height: 38px;
+  margin: auto;
+  margin-bottom: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.doctor img {
+  width: 128px;
+  height: 38px;
+}
+.sslki {
+  width: 848px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.sslki a {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 140%;
+  color: #0d233b;
+  text-decoration: none;
+}
