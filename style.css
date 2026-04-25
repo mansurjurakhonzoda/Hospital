@@ -236,3 +236,39 @@ p {
   color: #434343;
   padding: 20px 22px 0px;
 }
+.second {
+  height: 260px;
+}
+.third {
+  width: 24%;
+  height: 260px;
+}
+.third img {
+  width: 44px;
+  height: 44px;
+  margin-left: 22px;
+}
+.third p {
+  width: 185px;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 140%;
+  color: #3bb96d;
+  padding-left: 0;
+  padding-right: 0;
+  margin-bottom: 10px;
+  margin: 0;
+  margin-left: 30px;
+  border-bottom: 2px solid #279a59;
+}
+.third ul {
+  list-style: none;
+  padding-left: 30px;
+}
+.third ul li {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  color: #0d233b;
+  margin-bottom: 10px;
+}
