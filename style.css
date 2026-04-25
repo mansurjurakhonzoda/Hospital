@@ -114,3 +114,12 @@
   color: #0d233b;
   text-decoration: none;
 }
+p {
+  width: 90%;
+  margin: auto;
+  margin-bottom: 50px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 140%;
+  color: #0d233b;
+}
