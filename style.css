@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Dela+Gothic+One&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+* {
+  margin: 0;
+  font-family: "Lato", sans-serif;
+}
+.head {
+  width: 90%;
+  height: 36px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.head span {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 140%;
+  color: #686868;
+}
+.eye {
+  width: 250px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.eye svg {
+  width: 17px;
+  height: 17px;
+}
+.eye span {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 140%;
+  color: #686868;
+}
+.numbers {
+  width: 371px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.numbers span:nth-child(1) {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 140%;
+  color: #000000;
+}
+.numbers button {
+  width: 174px;
+  height: 36px;
+  background-color: #279a59;
+  border-radius: 30px;
+  border: none;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 140%;
+  color: #ffffff;
+}
