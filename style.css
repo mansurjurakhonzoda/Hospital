@@ -273,3 +273,63 @@ p {
   color: #0d233b;
   margin-bottom: 10px;
 }
+.laboratories {
+  width: 100%;
+  height: 584px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #272727;
+}
+.laboratornie {
+  width: 700px;
+  height: 424px;
+}
+.laboratornie p {
+  width: 700px;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 140%;
+  color: #ffffff;
+  margin: 0;
+  margin-bottom: 20px;
+}
+.spisok {
+  width: 700px;
+  height: 352px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.spisok ul li {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: #ffffff;
+  margin-bottom: 15px;
+}
+.med-sister {
+  width: 432px;
+  height: 580px;
+  position: relative;
+}
+.med-sister img:nth-child(1) {
+  position: absolute;
+  top: 100px;
+  right: 100px;
+}
+.med-sister img:nth-child(2) {
+  position: absolute;
+  top: 200px;
+  right: 20px;
+}
+.med-sister img:nth-child(3) {
+  position: absolute;
+  top: 70px;
+  right: 300px;
+}
+.med-sister img:nth-child(4) {
+  position: absolute;
+  bottom: 30px;
+  right: 10px;
+}
