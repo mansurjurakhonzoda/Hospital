@@ -202,3 +202,37 @@ p {
 .two {
   background-color: #27c8da;
 }
+.information {
+  width: 90%;
+  height: 258px;
+  margin: auto;
+  margin-bottom: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.informat {
+  width: 30%;
+  height: 182px;
+  padding: 38px 0px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px #ccc;
+  background-color: #ffffff;
+}
+.informat svg {
+  width: 31px;
+  height: 31px;
+  color: #ffffff;
+  padding: 20px;
+  margin-left: 22px;
+  border-radius: 50%;
+  background-color: #3bb96d;
+}
+.informat p {
+  width: 286px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 150%;
+  color: #434343;
+  padding: 20px 22px 0px;
+}
