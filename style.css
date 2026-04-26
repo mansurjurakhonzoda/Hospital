@@ -353,3 +353,103 @@ p {
   width: 276px;
   height: 400px;
 }
+.perezvonim {
+  width: 90%;
+  height: 400px;
+  margin: auto;
+  margin-bottom: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 60px;
+  background-color: #272727;
+  overflow: hidden;
+}
+form {
+  width: 570px;
+  height: 290px;
+  margin-left: 40px;
+}
+form p:nth-child(1) {
+  width: 570px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 140%;
+  margin: 0;
+  color: #ffffff;
+}
+form p:nth-child(2) {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: #ffffff;
+  margin: 0;
+}
+form p {
+  margin-bottom: 20px;
+}
+.dannie {
+  width: 570px;
+  height: 76px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.you {
+  width: 270px;
+  height: 76px;
+}
+label {
+  font-weight: 600;
+  font-size: 16px;
+  color: #ffffff;
+}
+input {
+  width: 250px;
+  height: 44px;
+  border-radius: 30px;
+  background-color: #f1f5f8;
+  border: none;
+  padding: 0px 10px;
+  margin-top: 10px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 140%;
+  color: #8d979f;
+}
+form button {
+  width: 270px;
+  height: 44px;
+  border-radius: 30px;
+  border: none;
+  background-color: #3bb96d;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 140%;
+  color: #ffffff;
+  margin-bottom: 30px;
+}
+form span {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 140%;
+  color: #ffffff;
+}
+form a {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 140%;
+  color: #3bb96d;
+}
+.formn {
+  width: 540px;
+  height: 500px;
+  position: relative;
+}
+.formn img {
+  width: 560px;
+  height: 420px;
+  position: absolute;
+  top: 30px;
+}
