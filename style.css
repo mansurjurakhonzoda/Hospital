@@ -453,3 +453,30 @@ form a {
   position: absolute;
   top: 30px;
 }
+.end {
+  width: 100%;
+  height: 325px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #279a59;
+}
+.punkt {
+  width: 156px;
+  height: 222px;
+}
+.punkt img {
+  width: 156px;
+  height: 41px;
+}
+.punkt ul {
+  list-style: none;
+  padding: 0;
+}
+.punkt li {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 140%;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
